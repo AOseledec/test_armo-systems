@@ -1,4 +1,4 @@
-"# test_armo-systems" 
+# test_armo-systems
 
 1. Поднять локально Tornado Web Server
 2. Написать на Electron получение и отображения данных, полученных из этого web server.
